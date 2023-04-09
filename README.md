@@ -1,6 +1,6 @@
 # BBC micro:bit, reka:bit và Zoom:bit KIT
 
-Tài liệu đào tạo nội bộ Micro:bit and Zoom:bit cho học viên - Softech Aptech
+Tài liệu đào tạo nội bộ, sử dụng bộ Kit Zoom:bit zip zip để thực hành cho học viên - Softech Aptech
 
 Nguồn Chương trình đào tạo: <https://microbit.org>
 
