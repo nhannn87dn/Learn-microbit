@@ -42,7 +42,7 @@ Thông số kỹ thuật và tính năng:
 
 ## 2. Reka:bit
 
-![reka](static/rekabit.png)
+![reka](static/rekabit-details.png)
 
 Thông số kỹ thuật và tính năng:
 
