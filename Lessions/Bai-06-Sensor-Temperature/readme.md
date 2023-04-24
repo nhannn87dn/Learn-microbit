@@ -18,7 +18,7 @@ Có thể dùng `micro:bit simulator` trình mô phỏng trên Makcode để min
 Chuyển chương trình lên micro:bit
 
 
-## 💥 3.3 Sử dụng cảm biến nhiệt độ
+## 💥 3.3 Hoạt động học viên
 
 **1. Nhiệt kế kỹ thuật số**
 
