@@ -43,6 +43,13 @@ Thông số kỹ thuật và tính năng:
 
 ![reka](static/rekabit-details.png)
 
+
+REKA: BIT có rất nhiều đèn LED để hỗ trợ bạn viết code và khắc phục sự cố. Đèn LED báo trạng thái có ở trên các chân IO được kết nối với 6 cổng Grove và đầu ra động cơ DC từ co-processor. Bạn có thể dễ dàng kiểm tra xem có tín hiệu ở đầu ra hay không, nhờ vào đó biết được nơi xảy ra lỗi (code / kết nối) và có biện pháp khắc phục thích hợp.
+
+Bên cạnh đó, REKA: BIT còn có đèn báo bật / tắt nguồn, đèn LED báo quá áp và LED báo điện áp thấp cũng được tích hợp để đưa ra các cảnh báo nếu có bất kỳ sự cố nào xảy ra với nguồn điện đầu vào.
+
+REKA:BIT được trang bị một co-processor để xử lý đa nhiệm hiệu quả hơn. Bạn có thể chơi nhạc và điều khiển cùng lúc 4x động cơ servo và 2x động cơ DC, nháy đèn LED ma trận trên micro:bit và điều khiển đèn LED RGB - những tác vụ trên sẽ không làm khó được REKA:BIT.
+
 Thông số kỹ thuật và tính năng:
 
 * 2x Kết nối động cơ DC
