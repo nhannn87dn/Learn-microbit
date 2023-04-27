@@ -16,10 +16,13 @@
 
 * Demo học viên một ví dụ: Hiển thị một icon trái tim ra màn hình LED để học sinh hình dung cách nó hoạt động.
 * Giải thích `Block on Start`, `Block show icon`, `Block show String` để làm gì ?
+
+**Bước 3 - Đưa chương trình và micro:bit**
+
 * Hướng dẫn cách để đưa một chương trình từ máy tính vào chạy micro:bit
 
 
-**Bước 3 - Cá nhân hóa hình ảnh** (15 phút)
+**Bước 4 - Cá nhân hóa hình ảnh** (15 phút)
 
 * Giải thích cho học viên mỗi đèn LED có thể hoạt động độc lập, có thể điều khiển Tắt Mở độc lập
 * Show một Demo và giải thích `Block show leds`

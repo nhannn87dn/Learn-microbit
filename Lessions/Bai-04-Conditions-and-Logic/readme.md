@@ -53,8 +53,10 @@ Sau đó triển khai thực tế lên Makecode
 
 ## 4.4 Hoạt động học sinh
 
+Lưu ý: Viết thuật toán trước khi thao tác trên Makecode
+
 * Micro:bit khởi động thì hiển thị mặt buồn
 * Nếu Nhấn button A thì hiển thị mặt cười
 * Nếu nhấn Button A+B hiển thị mặt mếu
 * Lắc hiển thị mặt khóc
-* Nhấn button B thì hiển thị cười mĩm
+* Nhấn button B thì hiển thị cười mỉm
