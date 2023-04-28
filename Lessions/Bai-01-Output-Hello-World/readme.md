@@ -14,6 +14,13 @@
 
 **Bước 2 - Hello World with micro:bit** (25 phút)
 
+* Sử dụng [makecode.microbit.org](https://makecode.microbit.org/) để tạo chương trình. Click "New Project" sau đó đặt tên Project
+
+* Giải thích các thành phần trên phần mềm MakeCode
+  * A - Programming Blocks =  Danh sách Blocks Code
+  * B - Workspace = Vùng tạo chương trình
+  * C - micro:bit simulator = Mô phỏng kết quả hiển thị lên micro:bit thật
+
 * Demo học viên một ví dụ: Hiển thị một icon trái tim ra màn hình LED để học sinh hình dung cách nó hoạt động.
 * Giải thích `Block on Start`, `Block show icon`, `Block show String` để làm gì ?
 

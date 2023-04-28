@@ -1,5 +1,5 @@
 
-## Bài 2. Inputs - Đầu ra
+## Bài 2. Inputs - Đầu vào
 
 ### 2.1 Giới thiệu về inputs
 
@@ -15,14 +15,7 @@
 
 ■ on button A+B pressed - Buttons A and B
 
-**Bước 2 - Chương trình đầu tiên**
-
-* Sử dụng [makecode.microbit.org](https://makecode.microbit.org/) để tạo chương trình. Click "New Project" sau đó đặt tên Project
-
-* Giải thích các thành phần trên phần mềm MakeCode
-  * A - Programming Blocks =  Danh sách Blocks Code
-  * B - Workspace = Vùng tạo chương trình
-  * C - micro:bit simulator = Mô phỏng kết quả hiển thị lên micro:bit thật
+**Bước 2 - Demo**
 
 
 * Ví dụ 1: Tạo chương trình Emotion badge - Nhấn Button A show mặt cười, nhấn phím B thì show mặt buồn
