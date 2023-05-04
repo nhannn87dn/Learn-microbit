@@ -41,7 +41,26 @@ Ngoài các inputs nhấn, micro:bit còn trang bị các inputs là cảm biế
 
 Demo `on shake` và `Touch Logo` thì đổi hình
 
-### 2.2. Giới thiệu về Biến - Variables
+
+### 2.2 Hoạt động học viên
+
+**Nhiệm vụ 1**
+
+Tạo một chương trình 
+
+* Nhấn Button A thì hiển thị một ra màn hình LED
+
+* Nhấn Button B hiển thị tên bạn ra màn hình LED
+
+* Nhấn Button A + B hiển thị icon và tên ra màn hình LED
+
+* Lắc một cái Hiển thị ký tự đầu tiên của tên bạn ra màn hình LED
+
+* Chạm vào Logo show icon mặt cười ra màn hình LED
+
+
+
+### 2.3. Giới thiệu về Biến - Variables
 
 **Bước 1:**
 
@@ -66,28 +85,14 @@ Tâm An: là giá trị của biến là value
 
 Cặt đặt biến trong MakeCode và tương tác với Buttons để thay đổi giá trị biến
 
+Demo biến
 
 **Bước 3:**
 
 Chúng ta có thể tạo ra một biến với giá trị ngẩu nhiên.
 
 
-### 2.3 Hoạt động học viên
-
-**Nhiệm vụ 1**
-
-Tạo một chương trình 
-
-* Nhấn Button A thì hiển thị một ra màn hình LED
-
-* Nhấn Button B hiển thị tên bạn ra màn hình LED
-
-* Nhấn Button A + B hiển thị icon và tên ra màn hình LED
-
-* Lắc một cái Hiển thị ký tự đầu tiên của tên bạn ra màn hình LED
-
-* Chạm vào Logo show icon mặt cười ra màn hình LED
-
+### 2.4 Hoạt động học viên
 
 
 **Nhiệm vụ 2 - Săn Rác**
@@ -100,4 +105,4 @@ Tình huống một tổ chức môi trường địa phương đang lo ngại v
 Yêu cầu thêm:
 
 * Khởi động lên show hình trái tim
-* Lắc một cái để xem số lượng rác thải tái chế và không tái chế đã đếm được.
+* Chạm Logo một cái để xem số lượng rác thải tái chế và không tái chế đã đếm được.
