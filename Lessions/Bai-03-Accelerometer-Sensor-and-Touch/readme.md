@@ -42,13 +42,15 @@ Demo lại chương trình lặc 1 cái tăng biến lên một đơn vị
 
 Đưa chương trình vào micro:bit, cấp nguồn cho micro:bit
 
-## 💥 3.4 Hoạt động học viên (35 minutes)
+## 💥 3.3 Hoạt động học viên (35 minutes)
 
 **Đi bộ và sức khỏe**
 
 Chuyện là Shara tuy còn nhỏ nhưng lại rất thích đi bộ cùng ba mẹ vào mỗi buổi sáng. Chuyên gia khuyên rằng mỗi ngày nên đi bộ 1000 bước để tăng cường sức khỏe nhưng bạn ấy không biết làm thế nào để nhớ được mình đã đi được bao nhiêu bước.
 
 Bạn hãy dùng micro:bit giúp Shara đếm số bước chân nhé !
+
+Nếu đủ 1000 bước thì hiển thị icon ✓
 
 
 **Cờ cá ngựa Công nghệ mới**
