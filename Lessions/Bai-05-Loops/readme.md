@@ -51,7 +51,23 @@ Giải thích cho học viên vệ lợi ích khi sử dụng vòng lặp
 
 **Beat Heart - Nhịp tim**
 
-Viết chương trinh mô phỏng nhịp tim.
+Viết chương trình mô phỏng nhịp tim.
+
+**Nhiệm vụ 2:**
+
+**Flash Badges**
+
+Viết một chương trình hiển thị icon liên tục theo thứ tự
+
+* Hiển thị 3 lần icon mặt cười và mặt buồn
+* Hiển thị 4 lần hình con vịt và hươu cao cổ
+
+Yêu cầu sử dụng: show leds và pause x ms
+
+Viết thuật toán và led plan sheet trước khi thực hiện chương trình
+
+
+**Nhiệm vụ 3:**
 
 **Dance Steps - Bước nhảy**
 
@@ -66,6 +82,8 @@ Hãy nhảy theo micro:bit:
 * Nếu micro:bit hiển thị mũi tên hướng xuống thì chỉ tay xuống sàn
 
 Lặp lại các động tác trên 4 lần như vậy.
+
+Viết thuật toán và Led plan sheet trước khi thực hiện chương trình
 
 
 
