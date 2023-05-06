@@ -48,17 +48,17 @@ Gợi ý:
 
 Lucy có một người bạn tên là Jack không may bị tai nạn giao thông và bị thương đôi chân không đi lại được. Bạn ấy phải di chuyển bằng xe lăn. Jack rất thích đi dạo công viên mỗi buổi tối, công viên thì đông người qua lại, có cả những người đi xe đạp.
 
-Bạn có thể giúp Jack tạo một đèn cánh báo vào ban đêm để bạn ấy găn lên xe lăn không ?
+Bạn có thể giúp Jack tạo một đèn cánh báo vào ban đêm để bạn ấy gắn lên xe lăn không ?
 
 Yêu cầu là:
 
 * Khi micro:bit bật lên thì hiển thị icon trái tim
 * Khi nhấn Button A, micro:bit dựa vào cường độ ánh sáng để nhận biết làm ban đêm để bật LED và tắt LED.
-* Nếu là ban đêm thì bật cả 25 đèn LED, rồi tắt liên tục thì sao tạo được hiệu ứng đền LED nháy
+* Nếu là ban đêm thì bật cả 25 đèn LED, rồi tắt bật liên tục để tạo hiệu ứng đèn LED nháy cảnh báo.
 * Khi nhấn phím B thì tắt chương trình
 
 Gới ý:
 
 * Tạo một biến để lưu lại trạng thái tắt, bật chương trình
 * Tạo một biến để lưu lại trạng thái hiển thị LED, lúc đầu là tắt LED
-* Dùng if kết hợp với while do để lặp lại quá trình tắt, bật LED để tạo hiệu ứng nháy
+* Dùng if else kết hợp với biến để kiểm tra trạng thái chương trình tắt, bật và trạng thái môi trường để tắt mở LED để tạo hiệu ứng nháy
