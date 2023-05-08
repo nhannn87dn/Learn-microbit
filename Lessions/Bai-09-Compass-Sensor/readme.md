@@ -1,6 +1,6 @@
-# Bài 8 - Cảm biến La Bàn
+# Bài 9 - Cảm biến La Bàn
 
-## 💥 8.1 Giới thiệu
+## 💥 9.1 Giới thiệu
 
 La bàn (cũng gọi là Từ kế hay Kim chỉ Nam) là dụng cụ dùng để xác định phương hướng trong không gian nhất định. La bàn được ứng dụng nhiều trong các hoạt động đi biển, vào rừng, sa mạc, hướng bay của máy bay, tàu thủy, tàu ngầm, tên lửa, tàu vũ trụ,...
 
@@ -20,7 +20,7 @@ Giải thích ký hiệu la bàn, cách định hướng trên là bàn
   * Hướng Tây Nam kí hiệu là SW.
   * Hướng Tây Bắc kí hiệu là NW
 
-## 💥 8.2 Sử dụng cảm biến La Bàn
+## 💥 9.2 Sử dụng cảm biến La Bàn
 
 **Bước 1 - Makecode**:
 
@@ -32,10 +32,10 @@ Sử dụng `compass heading (0)`
 
 Đưa chương trình vào micro:bit
 
-## 💥 8.3 Hoạt động học viên
+## 💥 9.3 Hoạt động học viên
 
 
-###  8.1 Công viên động vật hoang dã
+###  9.1 Công viên động vật hoang dã
 
 Nhà trường tổ chức cho các bạn nhỏ hoạt động ngoài giờ, tham quan công viên động vật hoang dã. Hướng dẫn viên của công viên có giới thiệu rằng -  hướng 45 độ là nơi mấy bạn Gấu sinh sống. Vì vậy các bạn nhỏ không nên đến quá gần các bạn Gấu nhé !
 
@@ -48,7 +48,7 @@ Các bạn nhỏ tạo chương trình làm một La Bàn kỹ thuật số đ�
 
 Lưu ý: Soạn thuật toán trước khi thực hiện chương trình
 
-###  8.2 Hòn Đảo Chứa Kho Báu
+###  9.2 Hòn Đảo Chứa Kho Báu
 
 Theo truyền thuyết kể rằng tại một hòn đảo xa xôi tại một vùng biển hướng Đông Bắc từng có một chiếc thuyền chở đầy kho báu bị sóng biển đánh dạt vào bờ.
 

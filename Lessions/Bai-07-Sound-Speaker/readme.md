@@ -1,6 +1,6 @@
-# Bài 9 - Âm thanh
+# Bài 7 - Âm thanh
 
-## 💥 9.1 Giới thiệu
+## 💥 7.1 Giới thiệu
 
 Micro:bit có loa tích hợp, giúp bạn dễ dàng thêm âm thanh vào dự án của mình. Bạn có thể cho micro:bit phát nhạc, bạn cũng có thể thể hiện bản thân bằng một số âm thanh: làm cho micro:bit của bạn cười khúc khích, chào bạn hoặc cho bạn biết khi nó buồn ngủ hoặc buồn.
 
@@ -11,7 +11,7 @@ Micro:bit BBC của bạn có thể được lập trình để tạo ra nhiều
 Nếu có đủ phụ kiện thì bạn có thể dùng micro:bit như một chiếc máy MP3 để phát nhạc ra tai nghe, headphones...bằng cách kết nối với các chân Pin
 
 
-## 💥 9.2 Sử dụng
+## 💥 7.2 Sử dụng
 
 **Bước 1 - Makecode**
 
@@ -40,15 +40,15 @@ Tạo giao điệu Happy birthday
 
 Đưa chương trình vào micro:bit
 
-## 💥 9.3 Hoạt động học viên
+## 💥 7.3 Hoạt động học viên
 
-### 9.3.1 Giai điệu em thích
+### 7.3.1 Giai điệu em thích
 
 Tạo chương trình chơi một giai điệu có sẵn mà bạn thích nhất
 Yêu cầu: Nhấn Button A thì chạy còn nhấn Button B thì tắt
 
 
-### 9.3.2 Countdown - Chúc Mừng Năm Mới
+### 7.3.2 Countdown - Chúc Mừng Năm Mới
 
 Tạo chương trình đếm ngược từ 10 - 9 với yêu cầu như sau:
 
@@ -58,7 +58,7 @@ Tạo chương trình đếm ngược từ 10 - 9 với yêu cầu như sau:
 * Nếu đến đến 0 thì phát âm thanh `happy`, đồng thời cho LED trình diễn animations pháo hoa liên tục cho đến tắt thì thôi
 
 
-### 9.3.3 Giai điệu giáng sinh
+### 7.3.3 Giai điệu giáng sinh
 
 Dùng Makecode soạn 1 đoạn giai điệu trong bài hát `Jingle Bells` nỗi tiếng.
 Với yêu cầu:
