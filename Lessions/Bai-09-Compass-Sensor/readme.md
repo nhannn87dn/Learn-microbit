@@ -37,24 +37,33 @@ Sử dụng `compass heading (0)`
 
 ###  8.1 Công viên động vật hoang dã
 
-Nhà trường tổ chức cho các bạn nhỏ hoạt động ngoài giờ, tham quan công viên động vật hoang dã. Hướng dẫn viên của công viên có giới thiệu rằng -  hướng 45 độ là nơi mấy bạn Gấu sinh sống. Nên các bạn nhỏ không nên đến quá gần các bạn Gấu nhé !
+Nhà trường tổ chức cho các bạn nhỏ hoạt động ngoài giờ, tham quan công viên động vật hoang dã. Hướng dẫn viên của công viên có giới thiệu rằng -  hướng 45 độ là nơi mấy bạn Gấu sinh sống. Vì vậy các bạn nhỏ không nên đến quá gần các bạn Gấu nhé !
 
 Các bạn nhỏ tạo chương trình làm một La Bàn kỹ thuật số để xác định vị trí nơi mấy bạn Gấu ở.
 
-###  8.2 Hòn Đào Chứa Kho Báu
 
-Theo truyền thuyết kể rằng tại một hòn đảo xa xôi tại một vùng biển hướng Đông Bắc từng có một chiếc thuyền chở đầy kho báu bị sóng đánh dạt vào bờ.
+- Nếu đúng hướng 45 độ thì tạo một biểu tượng Sonar nhấp nháy
+- Các hướng còn lại hiển thị biểu tượng mặt cười để báo hiệu tình trạng an toàn
+- Nếu Chạm vào logo thì hiển thị kết quả cảm biến đo được ra màn hình LED
+
+Lưu ý: Soạn thuật toán trước khi thực hiện chương trình
+
+###  8.2 Hòn Đảo Chứa Kho Báu
+
+Theo truyền thuyết kể rằng tại một hòn đảo xa xôi tại một vùng biển hướng Đông Bắc từng có một chiếc thuyền chở đầy kho báu bị sóng biển đánh dạt vào bờ.
 
 Có rất nhiều người đã đổ xô đi tìm nhưng vẫn chưa tìm ra vì họ không xác định đướng hướng đi đến hòn đảo trên biển khơi mênh mông.
 
-Các bạn nhỏ hãy làm một chương trình La bàn:
+Các bạn nhỏ hãy làm một chương trình La bàn để có thể giúp những người tìm kiếm kho báu xác định đúng hướng đi của mình.
 
-* Sử dụng một biến compass để lưu trữ vị trí
-* Nếu compass > 315 độ và < 45 độ và thì hiển thị ra màn hình LED ký tự N
+* Sử dụng một biến compass để lưu trữ giá trị cảm biến đo được
 * Nếu compass = 45 độ và thì hiển thị ra màn hình LED ký tự NE và phát ra âm thành bip bip để báo hướng đi đúng
-* Nếu compass > 45 độ và < 90 độ và thì hiển thị ra màn hình LED ký tự E
+* Nếu compass > 45 độ và < 135 độ và thì hiển thị ra màn hình LED ký tự E
 * Nếu compass = 135 độ và thì hiển thị ra màn hình LED ký tự SE
 * Nếu compass > 135 độ và < 225 độ và thì hiển thị ra màn hình LED ký tự S
 * Nếu compass = 225 độ và thì hiển thị ra màn hình LED ký tự SW
 * Nếu compass > 225 độ và < 315 độ và thì hiển thị ra màn hình LED ký tự W
 * Nếu compass = 315 độ và thì hiển thị ra màn hình LED ký tự NW
+* Khoảng còn lại là hướng Bắc thì hiển thị ra màn hình LED ký tự N
+
+Lưu ý: Soạn thuật toán trước khi thực hiện chương trình
