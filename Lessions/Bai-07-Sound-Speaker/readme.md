@@ -44,23 +44,30 @@ Tạo giao điệu Happy birthday
 
 ### 7.3.1 Giai điệu em thích
 
-Tạo chương trình chơi một giai điệu có sẵn mà bạn thích nhất
-Yêu cầu: Nhấn Button A thì chạy còn nhấn Button B thì tắt
+Tạo chương trình chơi 5 giai điệu có sẵn mà bạn thích.
+
+Yêu cầu: 
+
+* Nhấn Button A thì chạy giai điệu 1
+* Nhấn Button B thì chạy giai điệu 2
+* Nhấn Button A+B thì chạy giai điệu 3
+* Chạm Logo thì chạy giai điệu 4
+* Lắc micro:bit thì chạy giai điệu 5
 
 
 ### 7.3.2 Countdown - Chúc Mừng Năm Mới
 
-Tạo chương trình đếm ngược từ 10 - 9 với yêu cầu như sau:
+Tạo chương trình đếm ngược thời khắc chuyển giao năm mới từ 10 - 1 với yêu cầu như sau:
 
 * Nhấn phím A thì khởi động chương trình và phát âm thanh bật nguồn `power up`
 * Nhấn phím B thì tắt chương trình, phát âm thanh bật nguồn `power down`
 * Chạm vào Logo thì bắt đầu chương trình đếm ngược. Mỗi giây thì hiển thị số ra màn hình LED, đồng thời phát âm thamh middle G.
-* Nếu đến đến 0 thì phát âm thanh `happy`, đồng thời cho LED trình diễn animations pháo hoa liên tục cho đến tắt thì thôi
+* Đếm đến 0 thì phát âm thanh `happy`, đồng thời cho LED trình diễn animations pháo hoa liên tục cho đến tắt thì thôi
 
 
 ### 7.3.3 Giai điệu giáng sinh
 
-Dùng Makecode soạn 1 đoạn giai điệu trong bài hát `Jingle Bells` nỗi tiếng.
+Dùng Makecode soạn 1 đoạn giai điệu trong bài hát `Jingle Bells` nổi tiếng.
 Với yêu cầu:
 
 * Touch Logo để phát, nhấn A + B để tắt
