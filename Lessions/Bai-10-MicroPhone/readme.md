@@ -25,10 +25,12 @@ Demo 3: Đo mức độ ồn môi trường
 
 ## 💥 10.3 Hoạt động học viên
 
-Thực hành tạo lại 3 chường trình sau: 
+### Ô nhiễm tiếng ồn đô thị
 
-* Vỗ tay thì hiển thị icon trái tim
+Môi trường đô thị rất sôi động và ồn ào, náo nhiệt.
+Bạn có thể dùng micro:bit để đo mức độ ồn để giúp cơ quan chức năng có biện pháp ngiên cứu giảm thiểu tiếng ồn.
 
-* Led nháy theo giai điệu âm nhạc
+### Hát Karaoke quá giờ quy định
 
-* Đo mức độ ồn môi trường
+
+Hiện nay có một số người dùng loa kéo hát hò rất khuya. Để có căn cứ xử phạt, bạn có thể giúp các chú công an đo mức độ ồn khi hát karaoke không ?
