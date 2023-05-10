@@ -14,7 +14,14 @@ Sử dụng block `radio set group` trong nhóm Radio để tạo một Nhóm, c
 
 Nhóm Radio giống như Kênh tín hiệu vậy. Bất kỳ micro:bit nào có cùng kênh thì có thể nhận và gửi tín hiệu cho nhau.
 
-**Bước 2 - Demo**
+**Bước 2 - Gửi và nhận tín hiệu**
+
+Radio chỉ gửi được tín hiệu bằng ký tự số, chữ và một biến dạng name = key
+Radio nhận cũng chỉ nhận được các giá trị tương ứng từ radio gửi đi do vậy nó có các khối block gửi và nhận tương ứng.
+
+Ngoài ra bạn có thể xem thêm trong Radio -> More
+
+**Bước 3 - Demo**
 
 Gửi text `duck` và nhận 'hình con vịt`
 
