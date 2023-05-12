@@ -81,9 +81,12 @@ Hãy nhảy theo micro:bit:
 
 * Nếu micro:bit hiển thị mũi tên hướng xuống thì chỉ tay xuống sàn
 
-Lặp lại các động tác trên 4 lần như vậy.
+Yêu cầu thêm chương trình:
 
-Viết thuật toán và Led plan sheet trước khi thực hiện chương trình
+* Nhấn button A thì Lặp lại các động tác trên 4 lần như vậy.
+* Nhấn button B thì tắt chương trình, hiển thị hình mặt cười.
+
+* Viết thuật toán và Led plan sheet trước khi thực hiện chương trình
 
 
 
