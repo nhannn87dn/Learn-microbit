@@ -25,9 +25,13 @@ Tạo một chương trình:
 
 ## 💥 13.4 Hoạt động học viên
 
-Tạo một chương trình:
+**Xe Cánh Sát Zoom:bit**
 
 * Khởi động lên thì cho Servo xoay đầu phía trước, tức servo 90 độ. Màn hình LED hiển thị mặt cười. Bật âm thanh `power up`
-* Nhấn button A, xoay trái 45 độ, màn hình LED hiển thị mũi trên hướng trái
-* Nhấn Button B, xoay phải 45 độ, màn hình LED hiển thị mũi trên hướng phải
-* Nhấn A+B thì xoay về trước 90 độ, màn hình LED hiển thị mũi trên hướng lên
+* Nhấn button A, đầu xoay trái 45 độ, màn hình LED hiển thị mũi trên hướng phải
+* Nhấn Button B, đầu xoay trái 45 độ, màn hình LED hiển thị mũi trên hướng trái
+
+* Chạm Logo thì đầu xoay về trước, màn hình LED hiển thị mũi trên hướng lên
+* Nhấn thì Button A+B đầu xoay về trước, màn hình LED hiển thị mũi trên lùi
+
+Để tăng sự thu hút của mọi người và nhường đường để xe chạy, bạn có thể vừa cho đèn RGB LED nhấp nháy liên tục 2 màu Xanh Đỏ vừa phát ra tiếng còi báo động bằng các khối âm thanh
