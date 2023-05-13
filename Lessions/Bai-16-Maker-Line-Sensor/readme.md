@@ -12,6 +12,8 @@ Giới thiệu về bo mạch Maker Line Sensor được gắn bên dưới phí
 
 Để zoom:bit có thể dò theo đường đi trước hết chúng ta cần chỉ cho nó biết là đi theo cái gì ? Bằng cách dạy nó nhận biết.
 
+Chi tiết xem Video: <https://www.youtube.com/watch?v=i37xJtZak7s>
+
 Bước 1: Nhấn nút Calibrate (hiệu chuẩn) trong 5 giây đến khi 5 đèn LED đỏ lên để vào chế độ hiệu chuẩn
 
 Bước 2:  Quét 5 cảm biến IR lần lượt qua vạch line 2 lần mà chúng ta muốn zoom:bit lần theo.
