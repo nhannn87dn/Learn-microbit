@@ -1,6 +1,6 @@
-# Bài 3 - Cảm biến Gia Tốc Kế và Chạm
+# Bài 5 - Cảm biến Gia Tốc Kế và Chạm
 
-## 💥 3.1 Giới thiệu cảm biến là gì (10 minutes)
+## 💥 5.1 Giới thiệu cảm biến là gì (10 minutes)
 
 * **Bước 1**: Định nghĩa Cảm biến là gì ?
 
@@ -18,7 +18,7 @@
 ■ Cảm biến cường độ ánh sáng - light sensor
 
 
-## 💥 3.2 Cảm biến là dữ liệu đầu vào Inputs  (30 minutes)
+## 💥 5.2 Cảm biến là dữ liệu đầu vào Inputs  (30 minutes)
 
 **Bước 1 - Demo**:
 
@@ -42,7 +42,7 @@ Demo lại chương trình lặc 1 cái tăng biến lên một đơn vị
 
 Đưa chương trình vào micro:bit, cấp nguồn cho micro:bit
 
-## 💥 3.3 Hoạt động học viên (35 minutes)
+## 💥 5.3 Hoạt động học viên (35 minutes)
 
 **Đi bộ và sức khỏe**
 

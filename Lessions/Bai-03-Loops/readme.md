@@ -1,6 +1,6 @@
-# Bài 5 - Vòng lặp
+# Bài 3 - Vòng lặp
 
-## 💛 5.1 Vòng lặp là gì ?
+## 💛 3.1 Vòng lặp là gì ?
 
 **Vòng lặp** là một lệnh giúp thực thi một cái gì đó mà không phải sao chép hay viết lại nhiều lần.
 
@@ -18,7 +18,7 @@ Demo hình ảnh:
 * Thực hiện trên Makecode:  cách sử dụng vòng lặp
 
 
-## 💛 5.2 Các loại Vòng lặp ?
+## 💛 3.2 Các loại Vòng lặp ?
 
 ### Vòng lặp vô hạn 
 
@@ -33,19 +33,19 @@ repeat x times block: lặp với số lần được chỉ định
 while do: lặp khi đáp ứng một điều kiện
 
 
-## 💛 5.3  Vòng lặp lồng vào nhau ?
+## 💛 3.3  Vòng lặp lồng vào nhau ?
 
 Giải thích cho học viên là có thể lồng các vòng lặp vào nhau.
 
 Cho ví dụ minh họa
 
-## 💛 5.4 Lợi ích của Vòng lặp ?
+## 💛 3.4 Lợi ích của Vòng lặp ?
 
 Giải thích cho học viên vệ lợi ích khi sử dụng vòng lặp
 
 * Chương trình ngắn gọn, dễ đọc
 
-## 💛 5.5 Hoạt động học viên
+## 💛 3.5 Hoạt động học viên
 
 **Nhiệm vụ 1:**
 
