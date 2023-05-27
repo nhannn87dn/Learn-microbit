@@ -48,3 +48,19 @@ Tạo ra một chương trình cho zoom:bit di chuyển:
 * Nhấn button A, rẻ trái và Servo xoay trái 45 độ, màn hình LED hiển thị mũi trên hướng trái, đèn trước bên trái nháy 3 lần, đèn RGB nháy 3 lần màu vàng
 * Nhấn Button B, rẻ phải và Servo xoay phải 45 độ, màn hình LED hiển thị mũi trên hướng phải, đèn trước bên phải nháy 3 lần, đèn RGB nháy 3 lần màu vàng
 * Nhấn A+B, đi thẳng, Servo xoay về trước 90 độ, màn hình LED hiển thị mũi trên hướng lên
+
+### Hoạt động 3 - Xe điều khiển từ xa
+
+Áp dụng kiến thức đã học ở bài Radio để Lập trình điều khiển xe robot zoom:bit A bằng một bo mạch micro:bit B
+
+* zoom:bit A là xe chạy
+* micro:bit B là điều khiển từ xe
+
+Yêu cầu:
+
+* Nếu chạm và giữ vào Logo thì cho xe chạy tới, thả ra thì dừng
+* Nhấn nút A thì rẻ phải
+* Nhấn nút B thì rẻ trái
+* Nhấn A+B thì đi lùi
+
+Mở rộng bài này bằng cách sử dụng cảm biến gia tốc kế: Sử dụng khối lệnh on Shake / logo up/ logo down / sreen up / screen down / tilt left / tilt right ... để điều khiển.

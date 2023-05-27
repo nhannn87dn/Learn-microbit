@@ -40,11 +40,17 @@ Demo chương trình cho zoom:bit chạy theo sa hình bằng giấy đi kèm b�
 
 ## 💥 13.4 Hoạt động học viên
 
+### Giải đua xe công thức 1
+
 Hoạt động thi nhóm: tạo không khi tranh đua sôi nỗi
 
-Tạo chương trình cho zoom:bit đi theo đường đi được vạch sẵn. 
-Nếu đội nào đi đúng hướng và xa nhất sẽ là đội thắng.
+**Thể lệ như sau**
 
- Lưu ý: zoom:bit không thể đo quảng đường đã đi, nhưng chúng ta có thể dùng biến. Nếu cảm biến phát hiện ngã rẽ thì tại đó chúng ta có thể gắn biến để lưu lại.
+* Các đội có 20 phút để lập trình và Chạy thử nghiệm bám đường vạch ĐEN
+* Sau 20 phút đội nào chưa lập trình xong thì LOẠI, cá đội còn lại thi đấu
+* Mỗi Đội chạy 2 vòng, đội nào về đích với thời gian nhanh hơn thì đội đó THẮNG
 
- Qua đó chúng ta biết zoom:bit đã đi được đến đâu
+**Chỉ dẫn**
+
+* Cách sử dụng cảm biến thì tất cả các đội như nhau
+* Các bạn có thể điều chỉnh tốc độ động cơ cao lên thì xe sẽ chạy nhanh hơn
