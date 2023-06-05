@@ -1,5 +1,10 @@
 # Bài 1. Get Started - 120 phút
 
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn hướng dẫn bài tập về nhà
+
 ## 💛 1.1 Meet Micro:bit (15 phút)
 
 * Giới thiệu thành phần của bộ kit Zoom:bit

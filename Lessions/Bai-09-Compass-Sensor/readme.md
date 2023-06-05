@@ -1,5 +1,9 @@
 # Bài 9 - Cảm biến La Bàn
 
+⛔ Chuẩn bị của Giáo Vụ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v2.docx (in 2 mặt)
+
 ## 💥 9.1 Giới thiệu
 
 La bàn (cũng gọi là Từ kế hay Kim chỉ Nam) là dụng cụ dùng để xác định phương hướng trong không gian nhất định. La bàn được ứng dụng nhiều trong các hoạt động đi biển, vào rừng, sa mạc, hướng bay của máy bay, tàu thủy, tàu ngầm, tên lửa, tàu vũ trụ,...

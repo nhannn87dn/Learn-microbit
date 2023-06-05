@@ -1,5 +1,10 @@
 # Bài 10 - Radio
 
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v2.docx (in 2 mặt)
+
 ## 💥 10.1 Giới thiệu
 
 Radio là một cách gửi và nhận tin nhắn và BBC micro:bits có thể sử dụng sóng radio để liên lạc với nhau.

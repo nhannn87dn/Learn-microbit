@@ -1,5 +1,10 @@
 # Bài 5 - Cảm biến Gia Tốc Kế và Chạm
 
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v1.docx (in 2 mặt)
+
 ## 💥 5.1 Giới thiệu cảm biến là gì (10 minutes)
 
 * **Bước 1**: Định nghĩa Cảm biến là gì ?

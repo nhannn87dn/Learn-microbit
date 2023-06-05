@@ -1,5 +1,9 @@
 # Bài 8 - Cảm biến Ánh Sáng
 
+⛔ Chuẩn bị của Giáo Vụ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v2.docx (in 2 mặt)
+
 ## 💥 8.1 Giới thiệu
 
 Cảm biến ánh sáng là một thiết bị đầu vào đo mức độ ánh sáng. Micro:bit BBC của bạn sử dụng đèn LED để cảm nhận mức độ ánh sáng và cho phép bạn lập trình micro:bit của mình làm cảm biến ánh sáng.

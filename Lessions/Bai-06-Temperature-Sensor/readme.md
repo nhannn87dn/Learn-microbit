@@ -1,5 +1,11 @@
 # Bài 6 - Cảm biến nhiệt độ
 
+
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v1.docx (in 2 mặt)
+
 ## 💥 6.1 Giới thiệu
 
 **Cảm biến nhiệt độ** là một thiết bị đầu vào đo nhiệt độ. BBC micro:bit của bạn có một cảm biến nhiệt độ bên trong bộ xử lý có thể cung cấp cho bạn nhiệt độ môi trường xung quanh nó với giá trị gần đúng nhất.

@@ -1,5 +1,10 @@
 # Bài 13 - Servo Motor
 
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v2.docx (in 2 mặt)
+
 ## 💥 13.1 Giới thiệu
 
 Đầu của Zoom bit được gắn động cơ Servo 180 độ. Giải thích động cơ Servo là gì, chỉ rõ nằm ở đâu trên xe.

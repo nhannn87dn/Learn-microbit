@@ -1,5 +1,11 @@
 # Bài 14 - DC Motor
 
+
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v2.docx (in 2 mặt)
+
 ## 💥 14.1 Giới thiệu
 
 DC Motor là 2 động cơ để gắn 2 bánh xe vào Zoom:bit di chuyển

@@ -1,5 +1,10 @@
 # Bài 3 - Vòng lặp
 
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn hướng dẫn bài tập về nhà
+
 ## 💛 3.1 Vòng lặp là gì ?
 
 **Vòng lặp** là một lệnh giúp thực thi một cái gì đó mà không phải sao chép hay viết lại nhiều lần.

@@ -1,5 +1,9 @@
 # Bài 10 - Microphone
 
+⛔ Chuẩn bị của Giáo Vụ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v2.docx (in 2 mặt)
+
 ## 💥 10.1 Giới thiệu
 
 Micro:bit có tích micrô. Bạn có thể sử dụng nó như một đầu vào đơn giản - làm cho micro:bit của bạn bật đèn khi bạn vỗ tay. Nó cũng có thể đo lượng âm thanh, vì vậy bạn có thể tạo ra một máy đo độ ồn hoặc đèn disco đánh theo nhịp nhạc.

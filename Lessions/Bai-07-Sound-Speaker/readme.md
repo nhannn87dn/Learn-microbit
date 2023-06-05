@@ -1,5 +1,9 @@
 # Bài 7 - Âm thanh
 
+⛔ Chuẩn bị của Giáo Vụ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn 1 file Thuat-toan-Planning-v1.docx (in 2 mặt)
+
 ## 💥 7.1 Giới thiệu
 
 Micro:bit có loa tích hợp, giúp bạn dễ dàng thêm âm thanh vào dự án của mình. Bạn có thể cho micro:bit phát nhạc, bạn cũng có thể thể hiện bản thân bằng một số âm thanh: làm cho micro:bit của bạn cười khúc khích, chào bạn hoặc cho bạn biết khi nó buồn ngủ hoặc buồn.

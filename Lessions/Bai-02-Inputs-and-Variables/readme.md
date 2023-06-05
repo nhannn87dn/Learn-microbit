@@ -1,6 +1,11 @@
 
 ## Bài 2. Inputs - Đầu vào
 
+⛔ Chuẩn bị của Giáo Vụ
+- In LED Planning cho mỗi bạn 1 tờ
+- In mỗi bạn bài tập về nhà
+- In mỗi bạn hướng dẫn bài tập về nhà
+
 ### 2.1 Giới thiệu về inputs
 
 **Bước 1**
