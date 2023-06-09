@@ -1,16 +1,16 @@
 # Bài 5 - Cảm biến Gia Tốc Kế và Chạm
 
 ⛔ Chuẩn bị của Giáo Vụ
+
 - In LED Planning cho mỗi bạn 1 tờ
 - In mỗi bạn bài tập về nhà
 - In mỗi bạn 1 file Thuat-toan-Planning-v1.docx (in 2 mặt)
 
 ## 💥 5.1 Giới thiệu cảm biến là gì (10 minutes)
 
-* **Bước 1**: Định nghĩa Cảm biến là gì ?
+- **Bước 1**: Định nghĩa Cảm biến là gì ?
 
-* **Bước 2**: Giới thiệu cho học sinh micro:bit được trang bị các cảm biến gì, và nó dùng để làm gì
-
+- **Bước 2**: Giới thiệu cho học sinh micro:bit được trang bị các cảm biến gì, và nó dùng để làm gì
 
 ■ on shake - Accelerometer (Cảm biến gia tốc kế)
 
@@ -22,7 +22,6 @@
 
 ■ Cảm biến cường độ ánh sáng - light sensor
 
-
 ## 💥 5.2 Cảm biến là dữ liệu đầu vào Inputs  (30 minutes)
 
 **Bước 1 - Demo**:
@@ -31,9 +30,8 @@ Hướng dẫn học sinh sử dụng MakeCode để tạo chương trình thu t
 
 Trong bài học này chúng ta tìm hiểu cảm biến chạm (Touch Logo) và cảm biến gia tốc kế (Accelerometer)
 
-* Chạm Logo hiển thị biểu tượng trái tim
-* Lắc hiển thị biểu tượng mặt cười
-
+- Chạm Logo hiển thị biểu tượng trái tim
+- Lắc hiển thị biểu tượng mặt cười
 
 **Bước 2 - Cảm biến kết hợp với Biến (Variable)**:
 
@@ -56,7 +54,6 @@ Chuyện là Shara tuy còn nhỏ nhưng lại rất thích đi bộ cùng ba m�
 Bạn hãy dùng micro:bit giúp Shara đếm số bước chân nhé !
 
 Nếu đủ 1000 bước thì hiển thị icon ✓
-
 
 **Cờ cá ngựa Công nghệ mới**
 
