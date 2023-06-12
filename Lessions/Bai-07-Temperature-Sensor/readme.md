@@ -1,4 +1,4 @@
-# Bài 6 - Cảm biến nhiệt độ
+# Bài 7 - Cảm biến nhiệt độ
 
 
 ⛔ Chuẩn bị của Giáo Vụ
@@ -6,12 +6,12 @@
 - In mỗi bạn bài tập về nhà
 - In mỗi bạn 1 file Thuat-toan-Planning-v1.docx (in 2 mặt)
 
-## 💥 6.1 Giới thiệu
+## 💥 7.1 Giới thiệu
 
 **Cảm biến nhiệt độ** là một thiết bị đầu vào đo nhiệt độ. BBC micro:bit của bạn có một cảm biến nhiệt độ bên trong bộ xử lý có thể cung cấp cho bạn nhiệt độ môi trường xung quanh nó với giá trị gần đúng nhất.
 
 
-## 💥 6.2 Sử dụng cảm biến nhiệt độ
+## 💥 7.2 Sử dụng cảm biến nhiệt độ
 
 **Bước 1**:
 
@@ -24,7 +24,7 @@ Có thể dùng `micro:bit simulator` trình mô phỏng trên Makcode để min
 Chuyển chương trình lên micro:bit
 
 
-## 💥 6.3 Hoạt động học viên
+## 💥 7.3 Hoạt động học viên
 
 **1. Nhiệt kế kỹ thuật số**
 
