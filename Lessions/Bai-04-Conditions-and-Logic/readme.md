@@ -1,10 +1,11 @@
 # Bài 4 Conditions và Boolean
 
 ⛔ Chuẩn bị của Giáo Vụ
+
 - In LED Planning cho mỗi bạn 1 tờ
 - In mỗi bạn bài tập về nhà
 - In mỗi bạn 1 file Thuat-toan-Planning-v1.docx (in 2 mặt)
-
+- In mỗi bạn 1 file so-do-giai-thuat.docx
 
 ## 4.1 Xác định đầu ra
 
