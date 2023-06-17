@@ -1,7 +1,6 @@
 # Bài 12 - Head Light và RGB LED trên reka:bit
 
 ⛔ Chuẩn bị của Giáo Vụ
-- In LED Planning cho mỗi bạn 1 tờ
 - In mỗi bạn bài tập về nhà
 - In mỗi bạn 1 file Thuat-toan-Planning-v2.docx (in 2 mặt)
 
