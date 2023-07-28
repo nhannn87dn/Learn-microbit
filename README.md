@@ -1,5 +1,7 @@
 # BBC micro:bit, reka:bit và Zoom:bit KIT
 
+https://classroom.microbit.org/join?id=34116&password=J2ACGG2V
+
 Tài liệu đào tạo nội bộ, sử dụng bộ Kit Zoom:bit zip zip để thực hành cho học viên - Softech Aptech
 
 Nguồn Chương trình đào tạo: <https://microbit.org>
