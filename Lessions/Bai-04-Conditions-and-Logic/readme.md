@@ -1,10 +1,11 @@
 # Bài 4 Conditions và Boolean
 
 ⛔ Chuẩn bị của Giáo Vụ
+
 - In LED Planning cho mỗi bạn 1 tờ
 - In mỗi bạn bài tập về nhà
 - In mỗi bạn 1 file Thuat-toan-Planning-v1.docx (in 2 mặt)
-
+- In mỗi bạn 1 file so-do-giai-thuat.docx
 
 ## 4.1 Xác định đầu ra
 
@@ -61,8 +62,33 @@ Sau đó triển khai thực tế lên Makecode
 
 Lưu ý: Viết thuật toán trước khi thao tác trên Makecode
 
+###  Hoạt động 1
+
 * Micro:bit khởi động thì hiển thị mặt buồn
 * Nếu Nhấn button A thì hiển thị mặt cười
 * Nếu nhấn Button A+B hiển thị mặt mếu
 * Lắc hiển thị mặt khóc
 * Nhấn button B thì hiển thị cười mỉm
+
+###  Hoạt động 2
+
+Cho biến X = 2
+Cho biến Y = 4
+
+* Nếu phím A được nhấn thì hiển thị kết quả X+Y ra LED
+* Nếu phím B được nhấn thì hiển thị kết quả Y-X ra LED
+* Nếu phím A+B được nhấn thì hiển thị kết quả XxY ra LED
+
+###  Hoạt động 2
+
+Tạo một biến có tên là rank
+
+*  Khi nhấn nút A, thì rank = 1
+*  Khi nhấn B thì rank = 2
+*  Khi chạm Logo thì rank = 3. 
+
+Đồng thời Kiểm tra rank:
+
+*  Nếu rank =1 thì hiển thị chữ GOLD tượng trưng cho huy chương vàng. 
+* Nếu rank =2 thì hiển thị chữ SILVER tượng trưng cho huy chương bạc. 
+*  Nếu rank =3 thì hiển thị chữ BRONZE tượng trưng cho huy chương đồng. Còn lại không có huy chương

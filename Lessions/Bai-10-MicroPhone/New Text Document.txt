@@ -1,0 +1,9 @@
+﻿1.Bài: Ô nhiễm tiếng ồn
+nếu độ ồn lớn hơn 60 ==> Ô nhiễm
+còn lại thì ==> bình thường
+
+2.Bài:Hát kara
+nếu độ ồn lớn hơn 100 ==> Quá Ồnn
+còn lại thì ==> Cho Phép
+
+3. Nêusuu
